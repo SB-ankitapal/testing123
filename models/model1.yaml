@@ -1,0 +1,14 @@
+title: model1
+x-stoplight:
+  id: 8v2dqmtw5h0sb
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: pcfb6b7laa4jf
+  trst1:
+    type: string
+    x-stoplight:
+      id: fsn3ph2fns4vu
+description: model1
